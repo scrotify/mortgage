@@ -1,4 +1,4 @@
-package com.mortagebank.repository;
+package com.mortgagebank.repository;
 
 /**
  * The interface Account repository.

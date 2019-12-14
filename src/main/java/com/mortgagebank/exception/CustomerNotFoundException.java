@@ -1,4 +1,4 @@
-package com.mortagebank.exception;
+package com.mortgagebank.exception;
 
 /**
  * The type Customer not found exception.
